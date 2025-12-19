@@ -24,10 +24,13 @@ This project presents an end-to-end **Data Science solution** that performs data
 
 ---
 
-## Module 1: Exploratory & Location-Based Analysis
-- Analyzed geographical distribution of restaurants across countries and cities
-- Studied patterns in ratings, pricing, votes, and service availability
-- Identified high-density and high-rating restaurant regions
+### Module 1: Location-Based Analysis
+- Analyzed geographical distribution of restaurants using latitude–longitude density plots
+- Studied city-wise restaurant concentration and market share
+- Compared average ratings, pricing, and customer engagement across major cities
+- Computed cuisine diversity index to identify culturally diverse food hubs
+- Derived location-driven business insights related to pricing and quality
+
 
 ---
 
