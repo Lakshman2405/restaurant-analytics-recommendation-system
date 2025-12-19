@@ -86,3 +86,5 @@ This project presents an end-to-end **Data Science solution** that performs data
 - Introduce hybrid recommendation (content + popularity-based)
 - Deploy the recommendation system as a web application
 
+This project demonstrates an end-to-end data science workflow including data preprocessing, predictive modeling, classification, recommendation systems, and geographical analysis.
+
